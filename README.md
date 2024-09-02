@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anjali Kal
-- 👀 I’m interested tech, football, novels, anything you tell me about ;D
+- 👀 I’m interested in tech, football, novels, anything you tell me about ;D
 - 🌱 I’m currently learning Data Visualisation and Machine Learning!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
