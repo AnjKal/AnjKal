@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Kalarikkal</h1>
 <h3 align="center">AIML'27 at RVCE, Bangalore. AIML Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjkal" alt="anjkal" /></a> </p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
