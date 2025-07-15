@@ -1,12 +1,22 @@
-- 👋 Hi, I’m Anjali Kal
-- 👀 I’m interested in tech, football, novels, anything you tell me about ;D
-- 🌱 I’m currently learning Data Visualisation and Machine Learning!!
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
-- 😄 Pronouns: She/Her
-<!---- ⚡ Fun fact: ...--->
+# Hi, I'm Anjali Kal 👋
 
-<!---
-AnjKal/AnjKal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 AIML undergrad | 🤖 AIML Enthusiast | 🛠️ Builder of AI Tools
+
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333?style=flat&logo=webrtc)
+
+## 🚀 Projects
+- **[Socratic Teaching Assistant](https://github.com/your-username/socratic-assistant)** – GenAI-powered dialogue tutor for students
+- **[Sign Language Extension](https://github.com/your-username/sign-language-extension)** – Converts web text into sign language animations
+
+## 📫 Reach Me
+- ✉️ Email: youremail@example.com
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📝 [Portfolio](https://your-portfolio.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
