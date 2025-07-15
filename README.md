@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/anjali-kalarikkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali-kalarikkal" height="30" width="40" /></a>
 <a href="https://kaggle.com/anj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anj" height="30" width="40" /></a>
 <a href="https://medium.com/@anjaliaiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anjaliaiml" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anjali sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anjali sk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anjali-aiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anjali-aiml" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anjalisk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjalisk" height="30" width="40" /></a>
 </p>
 
